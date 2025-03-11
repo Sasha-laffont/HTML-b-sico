@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(248, 183, 211);
+}
+
+#fondo{
+    background-color: rgb(247, 105, 143);
+}
+
+input{
+    border-radius: 15px;
+}
+textarea{
+    border-radius: 15px;
+}
